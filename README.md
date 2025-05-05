@@ -33,9 +33,9 @@ To run the simulation:
 - A system with GUI support for PyBullet visualization
 
 ## About Me
-I’m SriHarshini K, a Computer Science student passionate about AI and robotics. Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/sri-harshini-5a34392a8/)
-- [GitHub](https://github.com/harshini643)
+I’m Yojitha B, a Computer Science student passionate about AI and robotics. Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yojitha-barenkala-760b5b320/)
+- [GitHub](https://github.com/yojitha218)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
